@@ -1,0 +1,5 @@
+21:48:53.709 [main] INFO  resources.base - driver initilized
+21:49:13.696 [main] INFO  resources.base - navigated to new page
+21:49:36.460 [main] INFO  resources.base - driver closed
+21:56:49.197 [main] INFO  base.base - driver initilized
+21:57:49.019 [main] INFO  base.base - navigated to new page

@@ -1,0 +1,8 @@
+20:20:34.791 [main] INFO  resources.base - driver initilized
+20:20:59.543 [main] INFO  resources.base - navigated to new page
+20:21:11.123 [main] INFO  resources.base - log test - user click's sign in button
+20:21:23.963 [main] INFO  resources.base - driver closed
+21:48:07.045 [main] INFO  resources.base - driver initilized
+21:48:26.340 [main] INFO  resources.base - navigated to new page
+21:48:37.751 [main] INFO  resources.base - log test - user click's sign in button
+21:48:50.739 [main] INFO  resources.base - driver closed
